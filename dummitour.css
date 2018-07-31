@@ -1,0 +1,29 @@
+.btn-color-green {
+	color: #27ae60 !important;
+	border: 1px #27ae60 solid;
+	background: rgba(0, 0, 0, 0);
+	min-width: 200px;
+	margin-top: 20px;
+}
+
+.btn-color-green:hover {
+	color: #fff !important;
+	background: #27ae60;
+}
+
+.textbox {
+	position: absolute;
+	color: #fff;
+	min-width: 200px;
+	max-width: 80%;
+}
+
+.textbox .title {
+	font-size: 30px;
+	font-family: casino_handregular, Arial;
+}
+
+.textbox .text {
+	font-size: 22px;
+	font-family: casino_handregular, Arial;
+}
